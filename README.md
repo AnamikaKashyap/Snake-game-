@@ -1,6 +1,5 @@
 # Snake-game-
 Made by Anamika Kashyap 
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Anamika</title>
